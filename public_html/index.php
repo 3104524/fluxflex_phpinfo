@@ -4,7 +4,7 @@
 </head> 
 <html>
 <body>
-<marquee width="570" direction="left" scrollamount="5" bgcolor="#ffdddd"> 
+<marquee width="1000" direction="left" scrollamount="9" bgcolor="#ffdddd"> 
 <p>
 <br>　　　　,,,,,,,,,,,,,,,,,,,,　
 <br>　　　 ||||||||||||||||||ii　
