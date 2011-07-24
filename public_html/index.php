@@ -5,7 +5,7 @@
 <html>
 <body>
 <center>
-<marquee width="600" direction="left" scrollamount="10" bgcolor="#ffdddd"> 
+<marquee width="500" direction="left" scrollamount="8" bgcolor="#ffdddd"> 
 <p>
 <br>　　　　,,,,,,,,,,,,,,,,,,,,　
 <br>　　　 ||||||||||||||||||ii　
@@ -18,8 +18,8 @@
 <br>　|　 /　　　　　　 　　_!|||||!!
 <br>. |　（＿,　　　　　　￣|||||
 <br>　|　━__━　　　　　　||||  
-<br>　 ヽ､ ｀~　,,,;;;;;;;__　　 ||||　
-<br>　　　||||||||||||　　　　　　＜　あげぽよ　)
+<br>　 ヽ､ ｀~　,,,;;;;;;;__　　 ||||　　＜　あげぽよ　)　
+<br>　　　||||||||||||　　　　　
 <br>　　　 !|||||||!!
 <br>　　　　!||||!　
 </p>
