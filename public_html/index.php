@@ -4,6 +4,8 @@
 </head> 
 <html>
 <body>
+<marquee width="570" direction="left" scrollamount="5" bgcolor="#ffdddd"> 
+<p>
 <br>　　　　,,,,,,,,,,,,,,,,,,,,　
 <br>　　　 ||||||||||||||||||ii　
 <br>　　　 ,,||||||||||||||||||||
@@ -19,5 +21,6 @@
 <br>　　　||||||||||||　
 <br>　　　 !|||||||!!　
 <br>　　　　!||||!　
+</p>
 </body>
 </html>
