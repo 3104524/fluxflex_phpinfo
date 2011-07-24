@@ -4,6 +4,7 @@
 </head> 
 <html>
 <body>
+<center>
 <marquee width="1000" direction="left" scrollamount="9" bgcolor="#ffdddd"> 
 <p>
 <br>　　　　,,,,,,,,,,,,,,,,,,,,　
@@ -22,5 +23,6 @@
 <br>　　　 !|||||||!!　
 <br>　　　　!||||!　
 </p>
+</center>
 </body>
 </html>
