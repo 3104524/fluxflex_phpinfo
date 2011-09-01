@@ -21,11 +21,13 @@ margin-bottom: 5px;
 }
 p {
 display: block;
-font-size: 10px;
+font-size: 12px;
 -webkit-margin-before: 1em;
 -webkit-margin-after: 1em;
 -webkit-margin-start: 0px;
 -webkit-margin-end: 0px;
+margin-bottom: 5px;
+padding: 5px 5px 5px 5px;
 }
 
 table {
