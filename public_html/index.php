@@ -40,6 +40,7 @@ padding: 0;
 li {
 display: list-item;
 font-size: 10px;
+margin-bottom: 5px;
 }
 </style>
 
