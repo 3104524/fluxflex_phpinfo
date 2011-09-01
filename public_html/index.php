@@ -69,8 +69,8 @@ padding: 0;
 }
 li {
 display: list-item;
-font-size: 13px;
-margin-bottom: 10px;
+font-size: 11px;
+margin-bottom: 8px;
 }
 </style>
 
