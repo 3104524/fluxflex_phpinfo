@@ -40,6 +40,7 @@ table {
 display: table;
 border-collapse: separate;
 border-spacing: 2px;
+margin-bottom: 10px;
 }
 tbody {
 display: table-row-group;
