@@ -59,7 +59,7 @@ background-repeat: no-repeat;
 background-position: left top;
 background-color: #F5F2E9;
 background-image: url("http://blog.jobweb.jp/wp-content/uploads/2010/08/evicon_07.gif");
-padding: 10px 10px 10px 60px;
+padding: 10px 10px 10px 80px;
 margin-bottom: 5px;
 }
 ul {
