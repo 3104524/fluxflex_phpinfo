@@ -28,7 +28,7 @@ vertical-align: inherit;
 border-color: inherit;
 }
 td{
-bgcolor: #ffefea;
+background-color: #ffefea;
 }
 ul {
 list-style-type: none;
