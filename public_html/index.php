@@ -21,11 +21,11 @@ margin: 0;
 padding: 0;
 }
 h2{
-font-size: 16px;
+font-size: 15px;
 color: #333;
 margin: 0;
 padding: 0;
-margin-bottom: 5px;
+margin-bottom: 8px;
 }
 p{
 display: block;
