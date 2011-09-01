@@ -15,13 +15,13 @@ img{
 margin-bottom: 20px;
 }
 h1{
-font-size: 13px;
+font-size: 15px;
 color: #333;
 margin: 0;
 padding: 0;
 }
 h2{
-font-size: 13px;
+font-size: 15px;
 color: #333;
 margin: 0;
 padding: 0;
@@ -29,7 +29,7 @@ margin-bottom: 5px;
 }
 p{
 display: block;
-font-size: 12px;
+font-size: 13px;
 -webkit-margin-before: 1em;
 -webkit-margin-after: 1em;
 -webkit-margin-start: 0px;
@@ -69,8 +69,8 @@ padding: 0;
 }
 li {
 display: list-item;
-font-size: 10px;
-margin-bottom: 5px;
+font-size: 13px;
+margin-bottom: 10px;
 }
 </style>
 
