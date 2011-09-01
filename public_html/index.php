@@ -51,6 +51,15 @@ margin-bottom: 5px;
 }
 </style>
 
+<div>
+<h1>ジョブウェブを活用しよう</h1>
+<p>
+ジョブウェブは、真に学生と社会人が成長する機会、企業の採用活動に貢献できる機会を提供するため、オンラインとオフライン双方の情報提供とコミュニケーションの場を提供しています。
+</p>
+</div>
+
+
+<div>
 <h1>就活攻略</h1>
 <table id="t2" border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
@@ -142,5 +151,7 @@ margin-bottom: 5px;
 
 </tr>
 </table>
+</div>
+
 </body>
 </html>
