@@ -58,7 +58,7 @@ td{
 background-repeat: no-repeat;
 background-position: left top;
 background-color: #F5F2E9;
-background-image: url("http://www.muji.net/img/lab/img/img_theme_cleaning_s.gif");
+background-image: url("http://a0.twimg.com/profile_images/1318240718/jobwebIntern13.png");
 padding: 10px 10px 10px 60px;
 margin-bottom: 5px;
 }
