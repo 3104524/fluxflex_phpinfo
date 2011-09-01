@@ -6,6 +6,12 @@
 <body>
 
 <style>
+div{
+border-bottom: 1px solid #E6E6E6;
+margin-bottom: 20px;
+line-height: 1.6;
+}
+
 h1{
 font-size: 13px;
 color: #333;
@@ -19,7 +25,7 @@ margin: 0;
 padding: 0;
 margin-bottom: 5px;
 }
-p {
+p{
 display: block;
 font-size: 12px;
 -webkit-margin-before: 1em;
