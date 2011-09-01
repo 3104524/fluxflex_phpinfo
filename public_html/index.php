@@ -107,7 +107,7 @@ color: #333;
 margin: 0;
 padding: 0;
 }
-table {
+table t1{
 display: table;
 border-collapse: separate;
 border-spacing: 2px;
@@ -134,14 +134,94 @@ display: list-item;
 </style>
 
 <h1>就活攻略</h1>
-<table border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
+<table id="t2" border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
-<td bgcolor="#fff4ea" valign="top" width="250" height="100">カルボナーラ</td>
-<td bgcolor="#fff4ea" valign="top" width="250" height="100">玉子とベーコンとクリームソースのパスタ</td>
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
 </tr>
 <tr>
-<td bgcolor="#fff4ea" valign="top" width="250" height="100">ペスカトーレ</td>
-<td bgcolor="#fff4ea" valign="top" width="250" height="100">エビとあさりの漁師風パスタ</td>
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
 </tr>
 </table>
 </body>
