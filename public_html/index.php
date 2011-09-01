@@ -16,7 +16,6 @@ table {
 display: table;
 border-collapse: separate;
 border-spacing: 2px;
-border-color: gray;
 }
 tbody {
 display: table-row-group;
@@ -27,6 +26,9 @@ tr {
 display: table-row;
 vertical-align: inherit;
 border-color: inherit;
+}
+td{
+bgcolor: #ffefea;
 }
 ul {
 list-style-type: none;
