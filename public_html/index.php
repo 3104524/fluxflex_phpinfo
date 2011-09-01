@@ -29,6 +29,7 @@ border-color: inherit;
 }
 td{
 background-color: #ffefea;
+padding: 10px 10px 10px 60px;
 }
 ul {
 list-style-type: none;
