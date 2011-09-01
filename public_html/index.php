@@ -6,11 +6,18 @@
 <body>
 
 <style>
-h1, h2{
+h1{
 font-size: 13px;
 color: #333;
 margin: 0;
 padding: 0;
+}
+h2{
+font-size: 13px;
+color: #333;
+margin: 0;
+padding: 0;
+margin-bottom: 5px;
 }
 table {
 display: table;
