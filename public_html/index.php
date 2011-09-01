@@ -58,7 +58,7 @@ td{
 background-repeat: no-repeat;
 background-position: left top;
 background-color: #F5F2E9;
-background-image: url("http://a0.twimg.com/profile_images/1318240718/jobwebIntern13.png");
+background-image: url("http://blog.jobweb.jp/wp-content/uploads/2010/08/evicon_07.gif");
 padding: 10px 10px 10px 60px;
 margin-bottom: 5px;
 }
