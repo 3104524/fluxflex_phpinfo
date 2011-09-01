@@ -19,6 +19,15 @@ margin: 0;
 padding: 0;
 margin-bottom: 5px;
 }
+p {
+display: block;
+font-size: 10px;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
 table {
 display: table;
 border-collapse: separate;
