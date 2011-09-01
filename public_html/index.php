@@ -73,6 +73,7 @@ margin-bottom: 5px;
 </style>
 
 <div>
+<img src="http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=4949752878&amp;v=1&amp;size=o&amp;cksum=54a7d3b6f4237843268298ffeaa0485b&amp;src=http%3A%2F%2Fwww.muji.net%2Fmessage%2Farchive10%2Fimg%2Fmainphoto.jpg" width="520" alt="">
 <h1>ジョブウェブを活用しよう</h1>
 <p>
 ジョブウェブは、真に学生と社会人が成長する機会、企業の採用活動に貢献できる機会を提供するため、オンラインとオフライン双方の情報提供とコミュニケーションの場を提供しています。
