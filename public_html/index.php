@@ -11,7 +11,9 @@ border-bottom: 1px solid #E6E6E6;
 margin-bottom: 20px;
 line-height: 1.6;
 }
-
+img{
+margin-bottom: 10px;
+}
 h1{
 font-size: 13px;
 color: #333;
