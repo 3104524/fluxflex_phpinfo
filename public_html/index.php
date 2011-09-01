@@ -88,6 +88,51 @@ margin-bottom: 5px;
 <table id="t2" border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
 <td id="t2">
+<h2>オススメセミナー</h2>
+<ul>
+<li>
+<a href="">就活丸ごと体感セミナー</a>
+</li>
+<li>
+<a href="">自己分析セミナー</a>
+</li>
+<li>
+<a href="">就活戦略立案セミナー</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+<td id="t2">
+<h2>厳選コラム</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+</tr>
+
+<tr>
+<td id="t2">
 <h2>くらしの基本</h2>
 <ul>
 <li>
@@ -130,6 +175,7 @@ margin-bottom: 5px;
 </td>
 
 </tr>
+
 <tr>
 <td id="t2">
 <h2>くらしの基本</h2>
