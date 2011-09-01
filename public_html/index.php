@@ -4,7 +4,129 @@
 </head> 
 <html>
 <body>
-<p>就活攻略</p>
+<table id="t1">
+<tbody>
+<tr>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+</tr>
+
+<tr>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+<td id="t2">
+<h2>くらしの基本</h2>
+<ul>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+<li>
+<a href="">ナチュラルクリーニング</a>
+</li>
+</ul>
+</td>
+
+</tr>
+</tbody>
+</table>
+
+<style>
+h1, h2{
+font-size: 13px;
+color: #333;
+margin: 0;
+padding: 0;
+}
+table {
+display: table;
+border-collapse: separate;
+border-spacing: 2px;
+border-color: gray;
+}
+tbody {
+display: table-row-group;
+vertical-align: middle;
+border-color: inherit;
+}
+tr {
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+}
+
+</style>
+
+<h1>就活攻略</h1>
 <table border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
 <td bgcolor="#fff4ea" valign="top" width="250" height="100">カルボナーラ</td>
