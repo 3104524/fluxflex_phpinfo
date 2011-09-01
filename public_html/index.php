@@ -123,7 +123,14 @@ display: table-row;
 vertical-align: inherit;
 border-color: inherit;
 }
-
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+li {
+display: list-item;
+}
 </style>
 
 <h1>就活攻略</h1>
