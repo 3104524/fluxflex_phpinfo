@@ -70,7 +70,7 @@ padding: 0;
 li {
 display: list-item;
 font-size: 11px;
-margin-bottom: 8px;
+margin-bottom: 7px;
 }
 </style>
 
