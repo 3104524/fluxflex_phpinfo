@@ -21,7 +21,7 @@ margin: 0;
 padding: 0;
 }
 h2{
-font-size: 15px;
+font-size: 18px;
 color: #333;
 margin: 0;
 padding: 0;
