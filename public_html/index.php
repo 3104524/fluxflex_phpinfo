@@ -30,6 +30,7 @@ border-color: inherit;
 td{
 background-color: #ffefea;
 padding: 10px 10px 10px 60px;
+margin-bottom: 5px;
 }
 ul {
 list-style-type: none;
