@@ -35,7 +35,7 @@ font-size: 13px;
 -webkit-margin-start: 0px;
 -webkit-margin-end: 0px;
 margin-bottom: 5px;
-padding: 5px 5px 5px 5px;
+padding: 0px 5px 5px 5px;
 }
 
 table {
