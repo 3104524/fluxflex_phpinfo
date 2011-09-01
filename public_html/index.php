@@ -12,7 +12,7 @@ margin-bottom: 20px;
 line-height: 1.6;
 }
 img{
-margin-bottom: 10px;
+margin-bottom: 20px;
 }
 h1{
 font-size: 13px;
