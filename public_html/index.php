@@ -12,7 +12,7 @@ color: #333;
 margin: 0;
 padding: 0;
 }
-table t1{
+table {
 display: table;
 border-collapse: separate;
 border-spacing: 2px;
@@ -35,6 +35,7 @@ padding: 0;
 }
 li {
 display: list-item;
+font-size: 10px;
 }
 </style>
 
