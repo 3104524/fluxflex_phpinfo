@@ -7,10 +7,6 @@
 <p>就活攻略</p>
 <table border="10" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
-<th bgcolor="#fff4ea" width="250" valign="top"><font color="#000000">メニュー</font></th>
-<th bgcolor="#fff4ea" width="250" height="100" valign="top"><font color="#000000">説明</font></th>
-</tr>
-<tr>
 <td bgcolor="#fff4ea" valign="top" >カルボナーラ</td>
 <td bgcolor="#fff4ea" valign="top" width="250" height="100">玉子とベーコンとクリームソースのパスタ</td>
 </tr>
