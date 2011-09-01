@@ -4,25 +4,20 @@
 </head> 
 <html>
 <body>
-<center>
-<marquee width="470" direction="left" scrollamount="8">
-<p>
-<br>　　　　,,,,,,,,,,,,,,,,,,,,　
-<br>　　　 ||||||||||||||||||ii　
-<br>　　　 ,,||||||||||||||||||||
-<br>　　 i||||||||||||||||||||||||||||i
-<br>　 i|||||||||||||||||||||||||||||||||||||i
-<br>　|||||||||||||||||||||||||||||||||||　!||.
-<br>　|━-　 -━━━　||||||||　|||
-<br>　,・=-|　 -=・=- 　 /￣||| ,||||　
-<br>　|　 /　　　　　　 　　_!|||||!!
-<br>. |　（＿,　　　　　　￣|||||
-<br>　|　━__━　　　　　　||||  
-<br>　 ヽ､ ｀~　,,,;;;;;;;__　　 ||||
-<br>　　　||||||||||||　　　　　
-<br>　　　 !|||||||!!
-<br>　　　　!||||!　
-</p>
-</center>
+<p>就活攻略</p>
+<table border="10" width="550" cellspacing="10" cellpadding="5" bordercolor="#ffffff">
+<tr>
+<th bgcolor="#fff4ea" width="250" height="100"><font color="#FFFFFF">メニュー</font></th>
+<th bgcolor="#fff4ea" width="250" height="100"><font color="#FFFFFF">説明</font></th>
+</tr>
+<tr>
+<td bgcolor="#fff4ea" align="right" >カルボナーラ</td>
+<td bgcolor="#fff4ea" valign="top" width="250" height="100">玉子とベーコンとクリームソースのパスタ</td>
+</tr>
+<tr>
+<td bgcolor="#fff4ea" align="right" nowrap>ペスカトーレ</td>
+<td bgcolor="#fff4ea" valign="top" width="250" height="100">エビとあさりの漁師風パスタ</td>
+</tr>
+</table>
 </body>
 </html>
