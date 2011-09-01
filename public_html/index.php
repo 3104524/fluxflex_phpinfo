@@ -75,7 +75,7 @@ margin-bottom: 5px;
 </style>
 
 <div>
-<img src="http://blog.jobweb.jp/wp-content/uploads/2011/04/event13tophead_03.gif" width="540" alt="">
+<img src="http://blog.jobweb.jp/wp-content/uploads/2011/04/event13tophead_03.gif" width="500" alt="">
 <h1>ジョブウェブを活用しよう</h1>
 <p>
 ジョブウェブは、真に学生と社会人が成長する機会、企業の採用活動に貢献できる機会を提供するため、オンラインとオフライン双方の情報提供とコミュニケーションの場を提供しています。
