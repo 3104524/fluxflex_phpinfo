@@ -112,19 +112,16 @@ margin-bottom: 7px;
 <h2>厳選コラム</h2>
 <ul>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://student.jobweb.jp/co_info">就活攻略レポート</a>
 </li>
 <li>
-<a href="">就活攻略レポート</a>
+<a href="http://student.jobweb.jp/contents/syukatsu/12448">OBOG訪問を成功させるコツ</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://student.jobweb.jp/contents/kouryaku/12556">ES対策！「学生時代頑張ったこと」</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://student.jobweb.jp/contents">新着コラム</a>
 </li>
 </ul>
 </td>
