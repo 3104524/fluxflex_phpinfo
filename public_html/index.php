@@ -94,7 +94,7 @@ margin-bottom: 7px;
 <a target=”_top” href="">就活丸ごと体感セミナー</a>
 </li>
 <li>
-<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>自己分析セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”株式会社ジョブウェブ”>自己分析セミナー</a>
 </li>
 <li>
 <a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>就活戦略立案セミナー</a>
