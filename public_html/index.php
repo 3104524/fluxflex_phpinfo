@@ -53,7 +53,8 @@ tr {
 display: table-row;
 vertical-align: inherit;
 border-color: inherit;
-
+}
+td{
 background-repeat: no-repeat;
 background-position: left top;
 background-color: #F5F2E9;
@@ -86,6 +87,7 @@ margin-bottom: 7px;
 <h1>就活攻略</h1>
 <table id="t2" border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
+<td>
 <h2>自己分析</h2>
 <ul>
 <li>
@@ -99,9 +101,11 @@ margin-bottom: 7px;
 </li>
 
 </ul>
+</td>
 </tr>
 
 <tr>
+<td>
 <h2>業界研究</h2>
 <ul>
 <li>
@@ -111,10 +115,12 @@ margin-bottom: 7px;
 <a target=”_top” href="http://student.jobweb.jp/contents/syukatsu/12448">年収2000万の投資銀行マンが年収400万のベンチャーへ転職した理由とは？～就活軸を考える～</a>
 </li>
 </ul>
+</td>
 </tr>
 
 
 <tr>
+<td>
 <h2>選考対策</h2>
 <ul>
 <li>
@@ -131,9 +137,11 @@ margin-bottom: 7px;
 </li>
 
 </ul>
+</td>
 </tr>
 
 <tr>
+<td>
 <h2>マナー/常識</h2>
 <ul>
 <li>
@@ -145,10 +153,11 @@ margin-bottom: 7px;
 </li>
 
 </ul>
-
+</td>
 </tr>
 
 <tr>
+<td>
 <h2>就活全般</h2>
 <ul>
 <li>
@@ -167,6 +176,7 @@ margin-bottom: 7px;
 <a target=”_top” href="">採用担当者が語る、面接で印象に残った学生4つのケース</a>
 </li>
 </ul>
+</td>
 </tr>
 
 
