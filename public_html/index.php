@@ -88,40 +88,29 @@ margin-bottom: 7px;
 <table id="t2" border="5" width="500" cellspacing="5" cellpadding="5" bordercolor="#ffffff">
 <tr>
 <td id="t2">
-<h2>オススメセミナー</h2>
+<h2>自己分析</h2>
 <ul>
 <li>
-<a target=”_top” href="">就活丸ごと体感セミナー</a>
+<a target=”_top” href="http://intern.jobweb.jp/contents/15689">自己分析で脱線しないために意識すべき2つの視点</a>
 </li>
 <li>
-<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”株式会社ジョブウェブ”>自己分析セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>「自己分析のデメリット」と「自己発見のすすめ」</a>
 </li>
 <li>
-<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>就活戦略立案セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>自己分析の必要十分条件～「自分探し」の迷路に迷い込まないために～</a>
 </li>
-<li>
-<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>OB・OG懇親会</a>
-</li>
-<li>
-<a target=”_top” href="">その他セミナー情報</a>
-</li>
+
 </ul>
 </td>
 
 <td id="t2">
-<h2>厳選コラム</h2>
+<h2>業界研究</h2>
 <ul>
 <li>
-<a target=”_top” href="http://student.jobweb.jp/co_info">就活攻略レポート</a>
+<a target=”_top” href="http://student.jobweb.jp/co_info">知らない仕事は目指せない</a>
 </li>
 <li>
-<a target=”_top” href="http://student.jobweb.jp/contents/syukatsu/12448">OBOG訪問を成功させるコツ</a>
-</li>
-<li>
-<a target=”_top” href="http://student.jobweb.jp/contents/kouryaku/12556">ES対策！「学生時代頑張ったこと」</a>
-</li>
-<li>
-<a target=”_top” href="http://student.jobweb.jp/contents">新着コラム</a>
+<a target=”_top” href="http://student.jobweb.jp/contents/syukatsu/12448">年収2000万の投資銀行マンが年収400万のベンチャーへ転職した理由とは？～就活軸を考える～</a>
 </li>
 </ul>
 </td>
@@ -130,44 +119,35 @@ margin-bottom: 7px;
 
 <tr>
 <td id="t2">
-<h2>くらしの基本</h2>
+<h2>選考対策</h2>
 <ul>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">学生レベルの「書くこと」「話すこと」を超越するための4つのポイント</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">面接における第一印象の重要性と意識すべき3つのポイント</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">やっている人は意外と少ない。確実に通るESが書けるようになる方法</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">白黒の履歴書をカラフルにする1つの方法</a>
 </li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
+
 </ul>
 </td>
 
 <td id="t2">
-<h2>その他</h2>
+<h2>マナー/常識</h2>
 <ul>
 <li>
-<a target=”_top” href="http://intern.jobweb.jp/community/communityTop">就活ブログ</a>
+<a target=”_top” href="http://intern.jobweb.jp/community/communityTop">「お！この子は違うな！」と思わせるメールマナー。今からスグできる5つの方法</a>
 </li>
+
 <li>
-<a target=”_top” href="http://intern.jobweb.jp/userEvent">会員主催イベント</a>
+<a target=”_top” href="http://intern.jobweb.jp/companyBlogTop/">電話対応もチェックされている？知っておくべき就活 電話マナーのポイント。</a>
 </li>
-<li>
-<a target=”_top” href="http://intern.jobweb.jp/companyBlogTop/">人事日記</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
+
 </ul>
 </td>
 
@@ -175,45 +155,28 @@ margin-bottom: 7px;
 
 <tr>
 <td id="t2">
-<h2>くらしの基本</h2>
+<h2>就活全般</h2>
 <ul>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">就活を頑張るための3つの外圧</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">企業は採用活動に本気であることを、きみは本当に意識できているのか？</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">スティーブ・ジョブズから学ぶ 「就活の心得」</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">就活にマジメな人にありがちな、残念な3つの特徴</a>
 </li>
 <li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">採用担当者が語る、面接で印象に残った学生4つのケース</a>
 </li>
 </ul>
 </td>
 
 <td id="t2">
-<h2>くらしの基本</h2>
-<ul>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-<li>
-<a target=”_top” href="">ナチュラルクリーニング</a>
-</li>
-</ul>
+
 </td>
 
 </tr>
