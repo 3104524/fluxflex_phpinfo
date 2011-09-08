@@ -94,7 +94,7 @@ margin-bottom: 7px;
 <a href="">就活丸ごと体感セミナー</a>
 </li>
 <li>
-<a href="">自己分析セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157">自己分析セミナー</a>
 </li>
 <li>
 <a href="">就活戦略立案セミナー</a>
