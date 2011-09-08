@@ -94,13 +94,13 @@ margin-bottom: 7px;
 <a target=”_top” href="">就活丸ごと体感セミナー</a>
 </li>
 <li>
-<a target=”_top” href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157">自己分析セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_self”>自己分析セミナー</a>
 </li>
 <li>
-<a target=”_top” href="">就活戦略立案セミナー</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_top”>就活戦略立案セミナー</a>
 </li>
 <li>
-<a target=”_top” href="">OB・OG懇親会</a>
+<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157" target=”_blank”>OB・OG懇親会</a>
 </li>
 <li>
 <a target=”_top” href="">その他セミナー情報</a>
