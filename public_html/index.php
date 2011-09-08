@@ -91,19 +91,19 @@ margin-bottom: 7px;
 <h2>オススメセミナー</h2>
 <ul>
 <li>
-<a href="">就活丸ごと体感セミナー</a>
+<a target=”_top” href="">就活丸ごと体感セミナー</a>
 </li>
 <li>
-<a href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157">自己分析セミナー</a>
+<a target=”_top” href="http://www.facebook.com/note.php?created&&note_id=252739561427121&id=241199202581157">自己分析セミナー</a>
 </li>
 <li>
-<a href="">就活戦略立案セミナー</a>
+<a target=”_top” href="">就活戦略立案セミナー</a>
 </li>
 <li>
-<a href="">OB・OG懇親会</a>
+<a target=”_top” href="">OB・OG懇親会</a>
 </li>
 <li>
-<a href="">その他セミナー情報</a>
+<a target=”_top” href="">その他セミナー情報</a>
 </li>
 </ul>
 </td>
@@ -112,16 +112,16 @@ margin-bottom: 7px;
 <h2>厳選コラム</h2>
 <ul>
 <li>
-<a href="http://student.jobweb.jp/co_info">就活攻略レポート</a>
+<a target=”_top” href="http://student.jobweb.jp/co_info">就活攻略レポート</a>
 </li>
 <li>
-<a href="http://student.jobweb.jp/contents/syukatsu/12448">OBOG訪問を成功させるコツ</a>
+<a target=”_top” href="http://student.jobweb.jp/contents/syukatsu/12448">OBOG訪問を成功させるコツ</a>
 </li>
 <li>
-<a href="http://student.jobweb.jp/contents/kouryaku/12556">ES対策！「学生時代頑張ったこと」</a>
+<a target=”_top” href="http://student.jobweb.jp/contents/kouryaku/12556">ES対策！「学生時代頑張ったこと」</a>
 </li>
 <li>
-<a href="http://student.jobweb.jp/contents">新着コラム</a>
+<a target=”_top” href="http://student.jobweb.jp/contents">新着コラム</a>
 </li>
 </ul>
 </td>
@@ -133,19 +133,19 @@ margin-bottom: 7px;
 <h2>くらしの基本</h2>
 <ul>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 </ul>
 </td>
@@ -154,19 +154,19 @@ margin-bottom: 7px;
 <h2>その他</h2>
 <ul>
 <li>
-<a href="http://intern.jobweb.jp/community/communityTop">就活ブログ</a>
+<a target=”_top” href="http://intern.jobweb.jp/community/communityTop">就活ブログ</a>
 </li>
 <li>
-<a href="http://intern.jobweb.jp/userEvent">会員主催イベント</a>
+<a target=”_top” href="http://intern.jobweb.jp/userEvent">会員主催イベント</a>
 </li>
 <li>
-<a href="http://intern.jobweb.jp/companyBlogTop/">人事日記</a>
+<a target=”_top” href="http://intern.jobweb.jp/companyBlogTop/">人事日記</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 </ul>
 </td>
@@ -178,19 +178,19 @@ margin-bottom: 7px;
 <h2>くらしの基本</h2>
 <ul>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 </ul>
 </td>
@@ -199,19 +199,19 @@ margin-bottom: 7px;
 <h2>くらしの基本</h2>
 <ul>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a target=”_top” href="">ナチュラルクリーニング</a>
 </li>
 </ul>
 </td>
