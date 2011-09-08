@@ -154,16 +154,16 @@ margin-bottom: 7px;
 </td>
 
 <td id="t2">
-<h2>くらしの基本</h2>
+<h2>その他</h2>
 <ul>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://intern.jobweb.jp/community/communityTop">就活ブログ</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://intern.jobweb.jp/userEvent">会員主催イベント</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="http://intern.jobweb.jp/companyBlogTop/">人事日記</a>
 </li>
 <li>
 <a href="">ナチュラルクリーニング</a>
