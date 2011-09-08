@@ -53,8 +53,7 @@ tr {
 display: table-row;
 vertical-align: inherit;
 border-color: inherit;
-}
-td{
+
 background-repeat: no-repeat;
 background-position: left top;
 background-color: #F5F2E9;
