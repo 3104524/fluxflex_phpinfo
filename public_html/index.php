@@ -100,10 +100,10 @@ margin-bottom: 7px;
 <a href="">就活戦略立案セミナー</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="">OB・OG懇親会</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="">その他セミナー情報</a>
 </li>
 </ul>
 </td>
@@ -115,7 +115,7 @@ margin-bottom: 7px;
 <a href="">ナチュラルクリーニング</a>
 </li>
 <li>
-<a href="">ナチュラルクリーニング</a>
+<a href="">就活攻略レポート</a>
 </li>
 <li>
 <a href="">ナチュラルクリーニング</a>
